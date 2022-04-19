@@ -26,3 +26,6 @@
 >     ./5c.sh <String>
 #### Note : In part c we have assumed that the input string has even number of letters so that we can easily divide .
 #### Output will be printed on terminal itself .
+## 🔗 GITHUB REPO Link
+https://github.com/kabirshamlani/ISS-ASSIGNMENT-1/blob/ea8340b651c1d141a9c33bc58c53b6ef2af0f2e9/README.md
+  
